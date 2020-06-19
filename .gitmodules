@@ -1,3 +1,6 @@
 [submodule "bibioteca-react-hook"]
 	path = bibioteca-react-hook
 	url = https://github.com/rolxander/bibioteca-react-hook
+[submodule "biblio"]
+	path = biblio
+	url = https://github.com/garyDav/biblio
